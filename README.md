@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MechiValle/MechiValle/master/helloThere.gif" width="500px">
 
-<!--
-**MechiValle/MechiValle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+My name is Mercedes Valle and I'm a front-end trainee based in Buenos Aires.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>Tech & tools</h2>
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F07167)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=F07167)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=FED9B7)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00AFB9)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=0081A7)
+
+<hr>
+<h2>You can find me on</h2>
+<a href="https://www.linkedin.com/in/mechivalle/">LinkedIn</a> <br>
+<a href="https://www.mechi-valle.com">My website</a>
