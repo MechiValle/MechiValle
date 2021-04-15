@@ -16,5 +16,5 @@ My name is Mercedes Valle and I'm a front-end trainee based in Buenos Aires.
 
 <hr>
 <h2>You can find me on</h2>
-<a href="https://www.linkedin.com/in/mechivalle/" target=_blank>LinkedIn</a> <br>
-<a href="www.mechi-valle.com" target=_blank>My website</a>
+<a href="https://www.linkedin.com/in/mechivalle/">LinkedIn</a> <br>
+<a href="www.mechi-valle.com">My website</a>
