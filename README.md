@@ -2,7 +2,7 @@
 
 <hr>
 
-My name is Mercedes Valle and I'm a junior front-end developer based in Buenos Aires.
+My name is Mercedes Valle. I'm a front-end developer based in Buenos Aires.
 
 <hr>
 
